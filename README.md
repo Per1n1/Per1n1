@@ -8,9 +8,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (último ano), descontra
 
 Meus repositórios refletem minha jornada de aprendizado. Aqui você encontra:
 
-* **Linguagens:** **Java** (Foco principal), C, Lua
+* **Linguagens:** **Java** (Foco principal)
 * **Versionamento:** Git e GitHub
-* **Sistemas/Lógica:** Linux (Projetos de OS), Lógica em Java
+* **Sistemas/Lógica:**Lógica em Java
 
 ---
 
